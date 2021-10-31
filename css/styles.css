@@ -5,33 +5,78 @@
 }
 
 body{
-    font-family: 'Oswald', 'Raleway';
+    font-family: 'Oswald', 'Raleway', 'Sniglet';
+    font-size: 2rem;
 }
 
+h1{
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+
+h3 {
+    font-family: 'Sniglet';
+    font-weight: 100;
+}
+
+p{
+    font-family: 'Oswald';
+}
+
+a{
+    text-decoration: none;    
+    cursor: pointer;
+}
+
+.title{
+    text-transform: uppercase;
+    margin: 1rem;
+}
 
 .container{
     display: grid;
     /* grid-template-columns: 1fr 1fr; */
     grid-template-columns: repeat( auto-fit, minmax(240px, 1fr));
     width: 100%;
-    height: 90vh;
+    height: 80vh;
 }
 
-.container .image{
-    background-image: url('../assets/error.png');
+.image{
     /* background-image: url('../assets/error\ colored.svg'); */
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    width:100%;
+    max-width:100%;
     height:auto;
 }
 
-.text{
-    margin:5rem 2rem 3rem 2rem;
-    padding:3rem;
+.text, .btn{
+    margin:2rem;
 }
+
+.text1{
+    padding:2rem;
+}
+
+.text2{
+    padding:2rem;
+}
+
+.btn{
+    background: #000;
+    font-size: 1rem;
+    color: #fff;
+    text-transform: uppercase;
+    padding:2rem;
+}
+
+
+
+
+
+
+
 
 
 
