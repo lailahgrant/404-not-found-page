@@ -4,15 +4,15 @@
 
 - Make a responsive 404 NOT FOUND page.
 - Using Grids.
-- Image is still playing too hard to style :rage:
+- ~~Image is still playing too hard to style :rage:~~
+- ` Finally - got the image to work `:grin: 
+### Preview of my 404 NOT FOUND page
+- The image is here :smiley:
+<img src="assets/404.png"  alt="Desktop image"/>
+
 
 ### My Finished Website is deployed on [Netlify](https://www.netlify.com/) , link is down below :point_down:
 - [404 Page NOT FOUND]()
-
-
-
-
-
 
 
 

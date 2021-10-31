@@ -12,6 +12,7 @@ body{
 h1{
     font-family: 'Raleway';
     font-weight: 700;
+    font-size: 4rem;
 }
 
 h3 {
@@ -30,7 +31,8 @@ a{
 
 .title{
     text-transform: uppercase;
-    margin: 1rem;
+    /* margin:1rem; */
+    margin:  1rem 0 0 2rem;
 }
 
 .container{
@@ -52,16 +54,12 @@ a{
 }
 
 .text, .btn{
-    margin:2rem;
+    /* margin:1rem; */
 }
 
-.text1{
-    padding:2rem;
-}
-
-.text2{
-    padding:2rem;
-    margin:0 0 2rem 0;
+.text1, .text2{
+    padding:1rem;
+    margin: 1.5rem 0 2rem 0;
 }
 
 .btn{
@@ -70,12 +68,12 @@ a{
     color: #fff;
     text-transform: uppercase;
     padding:2rem;
-    margin: 2rem;
+    margin: 2rem 0 1rem 1.5rem;
 }
 
 footer{
     text-align: center;
-    margin-top: -2rem;
+    margin-top: -.7rem;
 }
 
 
