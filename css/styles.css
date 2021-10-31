@@ -73,7 +73,10 @@ a{
     margin: 2rem;
 }
 
-
+footer{
+    text-align: center;
+    margin-top: -2rem;
+}
 
 
 
