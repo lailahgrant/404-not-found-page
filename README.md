@@ -8,7 +8,7 @@
 - ` Finally - got the image to work `:grin: 
 ### Preview of my 404 NOT FOUND page
 - The image is here :smiley:
-<img src="assets/404.png"  alt="Desktop image"/>
+<img src="/assets/404.PNG"  alt="Desktop image"/>
 
 
 ### My Finished Website is deployed on [Netlify](https://www.netlify.com/) , link is down below :point_down:
