@@ -17,8 +17,9 @@ body{
     height: 90vh;
 }
 
-.image{
+.container .image{
     background-image: url('../assets/error.png');
+    /* background-image: url('../assets/error\ colored.svg'); */
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
