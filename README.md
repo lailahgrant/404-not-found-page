@@ -7,7 +7,7 @@
 - ~~Image is still playing too hard to style :rage:~~
 - ` Finally - got the image to work `:grin: 
 ### Preview of my 404 NOT FOUND page
-- The image is here :smiley:
+- The Desktop image is here :smiley:
 <img src="/assets/404.PNG"  alt="Desktop image"/>
 
 
