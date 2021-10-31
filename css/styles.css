@@ -53,13 +53,13 @@ a{
     height:auto;
 }
 
-.text, .btn{
-    /* margin:1rem; */
+.text{
+    margin-right: 3rem;
 }
 
 .text1, .text2{
     padding:1rem;
-    margin: 1.5rem 0 2rem 0;
+    margin: 1rem 0 1rem 0;
 }
 
 .btn{
@@ -73,7 +73,7 @@ a{
 
 footer{
     text-align: center;
-    margin-top: -.7rem;
+    margin-top: -.5rem;
 }
 
 
